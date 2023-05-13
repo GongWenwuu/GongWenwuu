@@ -1,4 +1,4 @@
-- 👋 Hi, I’m GongWenwu
+- 👋 Hi, I’m 龚文武
 - 🌱 I’m currently a phd student at <a href="https://stat-ds.sustech.edu.cn/"> Department of Statistics and Data Science, SUSTech</a>, Shenzhen
 - 👀 I’m interested in Low Rank Tensor Learning Methods and Its Applications on Imaging and ITS
 <ul>
