@@ -4,7 +4,6 @@
 <ul>
   <li> Email: 12031299@mail.sustech.edu.cn </li>
   <li> <a href="https://gongwenwu.netlify.app/">Wenwu GONG's Homepage</a> </li>
-  <li> <a href="https://github.com/GongWenwuu">Github</a> </li>
   <li> <a href="https://orcid.org/my-orcid?orcid=0000-0002-8019-0582">orcid</a> </li>
 </ul>
 <!---
