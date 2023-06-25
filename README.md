@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 龚文武
 - 🌱 I’m currently a phd student at <a href="https://stat-ds.sustech.edu.cn/"> Department of Statistics and Data Science, SUSTech</a>, Shenzhen
-- 👀 I’m interested in Low Rank Tensor Learning Methods and Its Applications on Imaging and ITS
+- 👀 I’m interested in Low Rank Tensor Learning Methods and Its Applications on Imaging and Spatiotemporal traffic data.
 <ul>
   <li> Email: 12031299@mail.sustech.edu.cn </li>
   <li> <a href="https://gongwenwu.netlify.app/">Wenwu GONG's Homepage</a> </li>
