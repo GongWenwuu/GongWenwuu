@@ -3,7 +3,6 @@
 - 👀 I’m interested in Low-Rank Tensor Learning Methods and Its Applications on Imaging and Spatiotemporal traffic data.
 <ul>
   <li> Email: 12031299@mail.sustech.edu.cn </li>
-  <li> <a href="https://orcid.org/my-orcid?orcid=0000-0002-8019-0582">orcid</a> </li>
 </ul>
 <!---
 GongWenwuu/GongWenwuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
